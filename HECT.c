@@ -93,6 +93,13 @@ void main(void)
         {
             
             RB3 = 0;
+            RB4 = 0;
+            RB5 = 1;
+        }
+           else if(RB1 == 1)
+        {
+            
+            RB3 = 0;
             RB4 = 1;
             RB5 = 0;
         }
